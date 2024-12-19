@@ -12,7 +12,7 @@ function App() {
   return (
     <>
     <div>
-      <h1 className='text-center text-blue-950 font-bold text-3xl mt-8'>Learn about redux toolkit</h1>
+      <h1 className='text-center text-gray-100 drop-shadow-lg shadow-white font-bold text-3xl mt-8'>Learn about redux toolkit</h1>
       <User />
       {/* <button>Login</button> */}
       <AddTodo />
