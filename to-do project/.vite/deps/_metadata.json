@@ -7,25 +7,25 @@
     "react": {
       "src": "../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "df47a88b",
+      "fileHash": "52f687e3",
       "needsInterop": true
     },
     "react-dom/client": {
       "src": "../../node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "6731cd40",
+      "fileHash": "3034b8b2",
       "needsInterop": true
     },
     "react-redux": {
       "src": "../../../node_modules/react-redux/dist/react-redux.mjs",
       "file": "react-redux.js",
-      "fileHash": "480f985b",
+      "fileHash": "d26a8464",
       "needsInterop": false
     },
     "@reduxjs/toolkit": {
       "src": "../../../node_modules/@reduxjs/toolkit/dist/redux-toolkit.modern.mjs",
       "file": "@reduxjs_toolkit.js",
-      "fileHash": "2ac6965b",
+      "fileHash": "3d8a7653",
       "needsInterop": false
     }
   },
